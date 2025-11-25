@@ -1,9 +1,9 @@
 name: docker2
 channels:
-  - conda-forge
+- conda-forge
 dependencies:
-  - numpy
-  - pandas
-  - python=3.11
-  - conda-lock
+- numpy=2.3.5
+- pandas=2.3.3
+- python=3.11.14
+- conda-lock=3.0.4
 prefix: /Users/jennifertsang/miniforge3/envs/docker2
